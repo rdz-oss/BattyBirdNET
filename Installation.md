@@ -98,10 +98,10 @@ also to calculate the times of sunrise and sunset automatically for your site.
 Also make sure to check if your time and date settings are correct.
 Go to 'Tools' and log in with username 'birdnet'. Leave the password empty for now. You will change it later.
 
-<img src="assets/installation/tools.png" width="600" />
-<img src="assets/installation/bat_settings.png" width="600" />
-<img src="assets/installation/location.png" width="600" />
-<img src="assets/installation/time_date.png" width="600" />
+<img src="assets/installation/tools.png" width="400" />
+<img src="assets/installation/bat_settings.png" width="400" />
+<img src="assets/installation/location.png" width="400" />
+<img src="assets/installation/time_date.png" width="400" />
 
 To make the system safer it is recommended to set a password for the web interface (username is fixed to 'birdnet'.)
 Go to the bottom of the basic settings page. Find the advanced settings
