@@ -106,8 +106,8 @@ Go to 'Tools' and log in with username 'birdnet'. Leave the password empty for n
 To make the system safer it is recommended to set a password for the web interface (username is fixed to 'birdnet'.)
 Go to the bottom of the basic settings page. Find the advanced settings
 
-<img src="assets/installation/advanced_settings.png" width="600" />
-<img src="assets/installation/password.png" width="600" />
+<img src="assets/installation/advanced_settings.png" width="400" />
+<img src="assets/installation/password.png" width="400" />
 
 Next, you can edit the settings of the classifier. The default settings activate the 'bavaria' classifier (European species)
 at a sampling frequency of 256kHz. If you like different options you can set them in the Bat Classifier box
