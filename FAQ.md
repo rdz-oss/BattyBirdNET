@@ -49,5 +49,9 @@ CUSTOM-BAT-256kHz.tflite and CUSTOM-BAT-256kHz_Labels.txt as well! For a bird cl
 Next, set the Bat or Bird classifier to use it by settings 'Tools - Settings - Advanced Settings - Bat Classifier Settings - Bat Classifier - CUSTOM_BAT or CUSTOM_BIRD'.
 Now, the system will be using your bespoke (fine tuned bird or transfer learned bat) classifier!
 
+## Network settings
+
+You can change the settings in a shell via the command sudo raspi-config. You can edit the files as root (use sudo) directly under /etc/NetworkManager/system-connections .
+
 ## How can I contribute ?
 Collaborators are very welcome! Write about that in the github form, branch the repository and when ready make a pull request.
